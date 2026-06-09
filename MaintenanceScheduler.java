@@ -244,7 +244,7 @@ public class MaintenanceScheduler {
                 else if (option.equals("6")) { 
                     System.out.println("Exiting. Goodbye!");
                     break;
-                }
+                    } 
             } catch (NumberFormatException nfe) {
                 System.out.println("Invalid input encountered.");
             } catch (Exception e) { 

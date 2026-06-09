@@ -60,7 +60,6 @@ abstract class Vehicle {
 
 class Sedan extends Vehicle {
     private static final double SEDAN_INTERVAL = 10000.0;
-
     public Sedan(String lp, String m, double cm, double lsm) { 
         super(lp, m, cm, lsm); 
     }

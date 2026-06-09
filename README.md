@@ -14,8 +14,8 @@ In a command line, run:
 java MaintenanceScheduler
 
 ## OOP Concepts Used
-- Abstraction
-- Inheritance
-- Polymorphism
-- Encapsulation
+• Abstraction
+• Inheritance
+• Polymorphism
+• Encapsulation
 
